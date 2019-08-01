@@ -10,8 +10,6 @@
 </script>
 <script src="js/index.js">
 </script>
-    <script src="js/getUrlParam.js">
-    </script>
 </head>
 <body>
     
@@ -37,8 +35,6 @@
                 <th>Presentation</th>
                 <th><input type="text" id="presentation"></th>
             </tr>
-
-  
         </table>
         <input type="button" id="commit" value='Save' onclick="add()">
         
